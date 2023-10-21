@@ -1,7 +1,7 @@
 baseURL = "https://KazumaFujino.github.io"
 publishDir = "docs"
 
-title = "Shell"
+title = "Please cd my_dir!"
 # author = "cmos"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -9,7 +9,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "cmos's Portfolio!"
+  description = "cmos's website"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -30,7 +30,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: result of the tree command
   userName = "cmos"
   pcName = "a_computer"
-  workDir = "mydir"
+  workDir = "my_dir"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
