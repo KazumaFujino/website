@@ -1,7 +1,7 @@
 baseURL = "https://KazumaFujino.github.io"
 publishDir = "docs"
 
-title = "Please cd my_dir!"
+title = "The Shell"
 # author = "cmos"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
@@ -30,7 +30,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: result of the tree command
   userName = "cmos"
   pcName = "a_computer"
-  workDir = "my_dir"
+  workDir = "mydir"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -63,17 +63,23 @@ ignoreErrors = ["error-remote-getjson"]
 
   This is my activities below.
   - NHK ROBOCON
-  - JP's high school ROBOCON
-  - study of Computer Science
-  - Research on robot localization
+  - Japan High School Robot Competition
+  - Study of Computer Science
+  - Research on Robot Localization
+
+  Basically like making things,
+  not just robots.
+
+  Feel free to reach out!
 
   ----------------------------------------
 
   Likes:
-  - C/C++, Rust, Python, Kotlin, JS, ROS 2
+  - C/C++, Rust, Python, Kotlin, JS, ROS 2 ...
+  - acoustic, Anime/Manga, movies ...
 
   Dislikes:
-  - java, vegetables
+  - vegetables
 
   """
 
@@ -89,6 +95,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["github", "https://github.com/KazumaFujino"],
     ["X", "https://twitter.com/CMos6666"],
     ["Blog", ""],
+    ["This site on github pages", "https://github.com/KazumaFujino/website"],
   ]
 
 [module]
