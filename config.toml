@@ -92,10 +92,10 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "links"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
-    ["github", "https://github.com/KazumaFujino"],
+    ["github", "https://github.com/hcmos"],
     ["X", "https://twitter.com/CMos6666"],
     ["Blog", ""],
-    ["This site on github pages", "https://github.com/KazumaFujino/website"],
+    ["This site on github pages", "https://github.com/hcmos/website"],
   ]
 
 [module]
