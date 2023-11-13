@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson"]
   files = [
     ["github", "https://github.com/hcmos"],
     ["X", "https://twitter.com/CMos6666"],
-    ["Blog", ""],
+    ["Blog", "https://hcmos.github.io/blog"],
     ["This site on github pages", "https://github.com/hcmos/website"],
   ]
 
