@@ -1,4 +1,4 @@
-baseURL = "https://KazumaFujino.github.io"
+baseURL = "https://hcmos.jp"
 publishDir = "docs"
 
 title = "The Shell"
