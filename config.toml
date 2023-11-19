@@ -1,4 +1,4 @@
-baseURL = "https://KazumaFujino.github.io"
+baseURL = "https://hcmos.jp"
 publishDir = "docs"
 
 title = "The Shell"
@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson"]
   files = [
     ["github", "https://github.com/hcmos"],
     ["X", "https://twitter.com/CMos6666"],
-    ["Blog", "https://hcmos.github.io/blog"],
+    ["Blog", "https://blog.hcmos.jp"],
     ["This site on github pages", "https://github.com/hcmos/website"],
   ]
 

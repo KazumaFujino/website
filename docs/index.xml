@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Shell</title>
-    <link>https://KazumaFujino.github.io/</link>
+    <link>https://hcmos.jp/</link>
     <description>Recent content on The Shell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://KazumaFujino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hcmos.jp/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
